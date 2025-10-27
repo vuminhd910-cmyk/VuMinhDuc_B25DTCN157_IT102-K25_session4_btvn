@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 	int b;
-	printf("gia tri cua so n la:");
+	printf("gia tri cua so  la:");
 	scanf("%d",&b);
 	if(b%2 == 0){
 	printf("so chan");
@@ -10,3 +10,4 @@ int main(){
 	}
 	
 }
+
